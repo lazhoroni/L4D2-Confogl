@@ -107,22 +107,22 @@
 	}
 	"Practiceogl Configs"
 	{
-        "4v4practiceogl"
-        {
-            "name" "4v4 Practiceogl"
-        }
-        "3v3practiceogl"
-        {
-            "name" "3v3 Practiceogl"
-        }
-        "2v2practiceogl"
-        {
-            "name" "2v2 Practiceogl"
-        }
-        "1v1practiceogl"
-        {
-            "name" "1v1 Practiceogl"
-        }
+		"4v4practiceogl"
+		{
+			"name" "4v4 Practiceogl"
+		}
+		"3v3practiceogl"
+		{
+			"name" "3v3 Practiceogl"
+		}
+		"2v2practiceogl"
+		{
+			"name" "2v2 Practiceogl"
+		}
+		"1v1practiceogl"
+		{
+			"name" "1v1 Practiceogl"
+		}
 	}
 	"Scavogl Configs"
 	{
@@ -142,5 +142,24 @@
         {
             "name" "1v1 Scavogl"
         }
+	}
+	"Acemod Configs"
+	{
+		"acemod"
+		{
+			"name" "Acemod V4"
+		}
+		"am3v3"
+		{
+			"name" "3v3 Acemod"
+		}
+		"am2v2"
+		{
+			"name" "2v2 Acemod"
+		}
+		"am1v1"
+		{
+			"name" "1v1 Acemod"
+		}
 	}
 }
