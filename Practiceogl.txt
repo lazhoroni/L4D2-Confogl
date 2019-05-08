@@ -1,0 +1,54 @@
+Welcome to Practiceogl 1.2!
+Need to work on leveling chargers? Smoker's tongue giving you a hard time? Deadstops inconsistent? Grab a friend or a few and go practice hassle and worry free with practiceogl!
+
+Features:
+1v1 through 4v4 versions.
+Survivor bots will not shoot their weapons, only m2.
+Refill your ammo at any time with !ammo
+20,000 HP when the round goes live.
+Melees in the saferoom. New and improved!
+Near-instant spawn timer.
+Near-instant refresh on tongues and charges.
+SI spawn selector (use m2). No spitters or boomers though, only cappers.
+All SI scratch damage negated.
+Pulls, Pounces, Jocks, and Charges all deal just 1 damage each. DP's still give the bonus damage however.
+No commons. No hordes.
+No natural tanks (except maybe a couple static ones that I may or may not remove in the future), but you can say !tank as infected and you will become a tank. You cannot spawn another one until your current one dies.
+Multiwitch can be enabled or disabled at will. !witch10 !witch20 or !witch30 will start spawning witches at 10, 20, or 30 second intervals. !witchoff to turn it off. She still deals 100hp per swipe, and won't spawn if tank is up.
+If you get stuck/fall off a cliff/whatever, use !safe to teleport yourself back to the saferoom.
+If you get stuck as SI, say !kill or !insertquarter to use the suicide booth and off yourself.
+You can also use !kill as a survivor to end the round early.
+Flying ghosts: toggle fly mode with reload. Feet must be touching the ground for .25 seconds before you can spawn (just like Witch Party).
+20 incaps before dead.
+No scoring, only distance.
+Maybe some other stuff I forgot, maybe not!
+
+Install: Stop your server, unpackage and drag-n-drop into your server, and boot it back up. Everything is safe to overwrite. This package assumes you're running the latest version of promod and does not include any plugins it uses.
+
+You'll also want to add this to your server's matchmodes.txt file. You can use my Matchmodes Generator at http://2c4.org/l4d/mmgen or locate the file in the /addons/sourcemod/configs/ folder and add this to the appropriate sections:
+
+        "1v1practiceogl"
+        {
+            "Name" "1v1 Practiceogl"
+        }
+        "2v2practiceogl"
+        {
+            "Name" "2v2 Practiceogl"
+        }
+        "3v3practiceogl"
+        {
+            "Name" "3v3 Practiceogl"
+        }
+        "4v4practiceogl"
+        {
+            "Name" "4v4 Practiceogl"
+        }
+
+I'm all ears for suggestions and ways to improve on this.. constructive criticism and feedback is welcome!
+
+Credit goes to Zeon for the initial idea and a shoutout to Partisan for helping test!
+Also a thank you to Stabby and Tab(by) for the sourcepawn help!
+
+Enjoy!
+
+p.s. bite my shiny metal ass, Phyx.
