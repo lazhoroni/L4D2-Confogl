@@ -46,7 +46,7 @@
 	{
 		"promod"
 		{
-			"name" "ProMod 5.0.3"
+			"name" "Pro Mod 5.0.3"
 		}
 		"pmredtown"
 		{
@@ -54,15 +54,15 @@
 		}
 		"pm3v3"
 		{
-			"name" "3v3 ProMod"
+			"name" "3v3 Pro Mod"
 		}
 		"pm2v2"
 		{
-			"name" "2v2 ProMod"
+			"name" "2v2 Pro Mod"
 		}
 		"pm1v1"
 		{
-			"name" "1v1 ProMod"
+			"name" "1v1 Pro Mod"
 		}
 	}
 	"Hunters Configs"
@@ -71,7 +71,7 @@
 		{
 			"name" "Hunters 5.0.3"
 		}
-		"hunters3v3"
+		"hunters1v1"
 		{
 			"name" "3v3 Hunters"
 		}
@@ -82,6 +82,13 @@
 		"hunters1v1"
 		{
 			"name" "1v1 Hunters"
+		}
+	}
+	"Deadman Configs"
+	{
+		"deadman"
+		{
+			"name" "Deadman 5.0.3"
 		}
 	}
 	"Reflux Configs"
@@ -98,18 +105,11 @@
 			"name" "Retro 5.0.3"
 		}
 	}
-	"Deadman Configs"
-	{
-		"deadman"
-		{
-			"name" "Deadman 5.0.3"
-		}
-	}
 	"Practiceogl Configs"
 	{
 		"4v4practiceogl"
 		{
-			"name" "4v4 Practiceogl"
+			"name" "Practiceogl 1.2"
 		}
 		"3v3practiceogl"
 		{
@@ -122,44 +122,6 @@
 		"1v1practiceogl"
 		{
 			"name" "1v1 Practiceogl"
-		}
-	}
-	"Scavogl Configs"
-	{
-		"scavogl4v4"
-		{
-			"name" "4v4 Scavogl"
-		}
-		"scavogl3v3"
-		{
-			"name" "3v3 Scavogl"
-		}
-		"scavogl2v2"
-		{
-			"name" "2v2 Scavogl"
-		}
-		"scavogl1v1"
-		{
-			"name" "1v1 Scavogl"
-		}
-	}
-	"Acemod Configs"
-	{
-		"acemod"
-		{
-			"name" "Acemod V4"
-		}
-		"am3v3"
-		{
-			"name" "3v3 Acemod"
-		}
-		"am2v2"
-		{
-			"name" "2v2 Acemod"
-		}
-		"am1v1"
-		{
-			"name" "1v1 Acemod"
 		}
 	}
 }
